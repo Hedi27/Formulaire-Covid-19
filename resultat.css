@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(238, 82, 9);
+    border: 10px solid white;
+    border-radius: 20px;
+}
+
+h1,
+h2,
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(238, 82, 9);
+}
+
+body {
+    background-image: url("images/masque.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
